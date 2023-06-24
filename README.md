@@ -11,7 +11,7 @@ This project utilized Jetson Nano. The model employed was a retrained resnet18, 
 
 ## Running this project
 
-1. Please download the resnet18.onnx model from [Here](https://drive.google.com/file/d/1Il6buXnDNaFhrWSfiAwaGWNTvkjdjhfw/view?usp=sharing) and labels.txt from git hub.
+1. Please [download the resnet18.onnx model](https://drive.google.com/file/d/1Il6buXnDNaFhrWSfiAwaGWNTvkjdjhfw/view?usp=sharing) and labels.txt from git hub.
 
 2. Clone the jetson-inference project from GitHub by executing the command "git clone --recursive https://github.com/dusty-nv/jetson-inference" and navigate to the respective directory.
 
